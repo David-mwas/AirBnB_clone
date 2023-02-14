@@ -278,4 +278,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **David Mwangi** <[David-mwas](https://github.com/David-mwas)>
-* **jemal seid** <[jamal](https://github.com/jamal)>
+* **jemal seid** <[jemal](https://github.com/jamal)>
